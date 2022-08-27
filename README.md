@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RenKiro
-- 👀 I’m interested in watching a day in life clip videos, drum tutorials, anime, kdrama, mountain biking competitions, and a lot more...
-- 🌱 I’m currently learning Software Engineering, Numerical Methods, System Fundamentals, Environmental Science, etc...
-- 💞️ I’m looking to collaborate on GUI, WEB, and GAME Development
-- 📫 How to reach me ...
+- 👀 I’m interested in watching a "day in a life" contents of professionals, coding tutorials, anime, cycling competitions, and more.
+- 🌱 I’m currently learning Python stuffs as a future Pythonista
+- 💞️ I’m looking to collaborate on an open source applications
+- 📫 Just email me at rensylboyet.quiroben@g.batstate-u.edu.ph
 
 <!---
 RenKiro/RenKiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
