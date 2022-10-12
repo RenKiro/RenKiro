@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RenKiro
-- 👀 I’m interested in watching "day in a life" contents of professionals, coding tutorials, cycling competitions, and more
+- 👀 I’m interested in watching "day in a life" contents of professionals, coding tutorials, and cycling competitions
 - 🌱 I’m currently learning Python as a future Python Developer
-- 💞️ I’m willing to contribute on an open source projects
+- 💞️ I’m willing to contribute on open source projects
 - 📫 Just email me at mrenzyll@gmail.com
 
 <!---
